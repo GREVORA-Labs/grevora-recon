@@ -1,0 +1,3 @@
+# Replace with hosts you own or have explicit written authorization to test.
+https://example.com/
+https://www.example.com/
